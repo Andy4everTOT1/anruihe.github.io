@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "About Me"
-    url: /anruihe.github.io/
+    url: /
 
   - title: "News"
-    url: /anruihe.github.io/news/
+    url: /news/
 
   - title: "Publications"
-    url: /anruihe.github.io/publications/
+    url: /publications/
 
   - title: "Educations"
-    url: /anruihe.github.io/educations/
+    url: /educations/
 
   - title: "Internships"
-    url: /anruihe.github.io/internships/
+    url: /internships/
