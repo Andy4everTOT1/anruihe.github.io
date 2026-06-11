@@ -1,16 +1,7 @@
 # main links
 main:
-  - title: "Homepage"
-    url: /anruihe.github.io/
+  - title: "Home"
+    url: index.html
 
-  - title: "News"
-    url: /anruihe.github.io/news/
-
-  - title: "Publications"
-    url: /anruihe.github.io/publications/
-
-  - title: "Educations"
-    url: /anruihe.github.io/educations/
-
-  - title: "Internships"
-    url: /anruihe.github.io/internships/
+  - title: "Experience"
+    url: experience.html
