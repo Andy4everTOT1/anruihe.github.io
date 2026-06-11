@@ -1,6 +1,6 @@
 ---
 title: "News"
-permalink: /anruihe.github.io/news/
+permalink: /news/
 author_profile: true
 ---
 
