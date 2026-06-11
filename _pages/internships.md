@@ -1,6 +1,6 @@
 ---
 title: "Internships"
-permalink: /anruihe.github.io/internships/
+permalink: /internships/
 author_profile: true
 ---
 
