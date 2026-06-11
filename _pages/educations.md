@@ -1,6 +1,6 @@
 ---
 title: "Educations"
-permalink: /anruihe.github.io/educations/
+permalink: /educations/
 author_profile: true
 ---
 
