@@ -4,13 +4,13 @@ main:
     url: /anruihe.github.io/
 
   - title: "News"
-    url: /anruihe.github.io/#news
+    url: /anruihe.github.io/news/
 
   - title: "Publications"
-    url: /anruihe.github.io/#publications
+    url: /anruihe.github.io/publications/
 
   - title: "Educations"
-    url: /anruihe.github.io/#educations
+    url: /anruihe.github.io/educations/
 
   - title: "Internships"
-    url: /anruihe.github.io/#internships
+    url: /anruihe.github.io/internships/
