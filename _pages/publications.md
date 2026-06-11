@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: /anruihe.github.io/publications/
+permalink: /publications/
 author_profile: true
 ---
 
